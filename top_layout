@@ -7,14 +7,16 @@ body
     higth:100%;
     margin:0;
     padding:0;
-    
+	color:#664032;
 	
 }
+
 .top
 {
 	
 	margin-top: 200px;
 	margin-bottom: 100px;
+	
 }
 .top
 img
@@ -40,8 +42,8 @@ img
 }
 .newsimg
 {
-        margin-bottom:50px;
-	margin-left: 330px;
+       margin-bottom:50px;
+	   margin-left: 330px;
 }
 .content
 {
@@ -92,19 +94,19 @@ a
 }
 a:link
 {
-         color:black;
+         color:#664032;
 }
 a:visited
 {
-         color:black;
+         color:#664032;
 }
 a:hover
 {
-         color:black;
+         color:#664032;
 }
 a:active
 {
-         color:black;
+         color:#664032;
 }
 .annai
 {
@@ -143,5 +145,3 @@ p.address
          color:#ffffff;
          padding:10px;
 }
-
-
