@@ -1,0 +1,83 @@
+body{
+	
+	font-family: "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", "Meiryo, Osaka", "ＭＳ Ｐゴシック", "MS PGothic", "sans-serif";
+	width:100%;
+    higth:100%;
+    margin:0;
+    padding:0;
+    color:#664032;
+　}
+
+.top
+{
+	
+	margin-top: 200px;
+	margin-bottom:100px;
+}
+.top
+img
+{
+       padding-right:18px;
+}
+.logo
+{
+	
+	margin-bottom: 100px;
+	
+}
+
+
+p.kisestunopan
+
+{       font-size:12px; 
+        padding-top:20px;  
+
+}
+p.hanbaiziki
+{
+    font-size:8px;
+}
+.osirase
+{
+          margin:100px;
+}
+p.bun
+{
+         font-size:8px;
+}
+.right
+{
+	float: left;
+	margin-top:70px;
+	margin-right:150px;
+    margin-left:200px;
+	
+	
+}
+.center
+{
+	float: left;
+	margin-right:50px;
+	margin-top:70px;
+	color:#543f32;
+	
+}
+.left
+{
+	
+	float: left;
+	margin-top:70px;
+	margin-left:20px;
+	color:#543f32;
+}
+.footer
+{
+         
+         margin-top:300px;
+         font-size:8px;
+         background-color:#543f32;
+         color:#ffffff;
+         padding:10px;
+}
+
+
